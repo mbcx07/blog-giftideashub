@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://giftideashub.com/blog-giftideashub/sitemap.xml
